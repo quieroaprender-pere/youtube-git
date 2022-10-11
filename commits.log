@@ -1,0 +1,98 @@
+commit 59fac5a0c32c763c94ae57c0c2b4ffb1808e61c2
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Tue Oct 11 17:03:44 2022 -0500
+
+    Agregando dos parrafos
+
+commit 650c58f3cf57cd16fb292401f926f226380865bf
+Merge: d4fd908 af7c192
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Tue Oct 11 17:01:38 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit d4fd9089e92539461231ace3bd7e8ad1f7b94216
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Tue Oct 11 16:47:29 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit af7c1922d170430ccfc24d788942959bde57cd84
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Tue Oct 11 16:47:29 2022 -0500
+
+    Agregando estaciones del año
+
+commit 9c81362c62eb0f88605f9e156a493f66e380f296
+Merge: a086a51 2508bae
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Mon Oct 10 18:07:47 2022 -0500
+
+    Resolviendo conflicto merge main html en el documento index.html
+
+commit 2508baecc0efddda49ac74c1769d1245b256b538
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Mon Oct 10 18:01:55 2022 -0500
+
+    Agregando index.js al index.html
+
+commit a086a51bf63dd7d9ad30669fc6f682c4e63059d4
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Mon Oct 10 17:59:00 2022 -0500
+
+    Agregando style.css al index.html
+
+commit f39d8f5ced8c8a158ae027f569d8b7150f1f6bcd
+Merge: 42caea3 c579c94
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Mon Oct 10 17:48:16 2022 -0500
+
+    Merge branch 'js'
+
+commit c579c94494bdb6b2104ce3ce2990771dfe6b14e1
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Fri Oct 7 17:57:59 2022 -0500
+
+    Creando index.js
+
+commit 42caea3c3a6d69727e4f3b91cddf03200554d9e6
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Fri Oct 7 17:53:37 2022 -0500
+
+    Creando style css
+
+commit 90c5976e26ecd4923d4d2bd27bf9629aae046a11
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Fri Oct 7 17:49:24 2022 -0500
+
+    Creando index.html
+
+commit 3a7023bcb8069cee0e2d08e40ded0d397d12dc33
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Fri Oct 7 17:10:53 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 6ff2ade297f1564935505ac19395abf8c37a9668
+Author: PerezCaifas <64927681+quieroaprender-pere@users.noreply.github.com>
+Date:   Fri Oct 7 16:36:28 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 457dae8daa8a54f6eb48c2251c527a0aa099c2d6
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Fri Oct 7 16:30:33 2022 -0500
+
+    Agregando mas contenido al README
+
+commit 7b20b7f49fe5e3d0d07a4417ee90cc1b748cce9d
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Thu Oct 6 20:35:13 2022 -0500
+
+    Agregando contenido inicial al readme
+
+commit ddd18efbcc06f6bfaad76e45bfe83517f03b439e
+Author: PerezCaifas <luis.perez-7@hotmail.com>
+Date:   Thu Oct 6 20:30:23 2022 -0500
+
+    Primer Commit
